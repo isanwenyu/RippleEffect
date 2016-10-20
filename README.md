@@ -1,6 +1,6 @@
 RippleEffect
 ================
-
+[ ![Download](https://api.bintray.com/packages/isanwenyu/maven/RippleEffect/images/download.svg) ](https://bintray.com/isanwenyu/maven/RippleEffect/_latestVersion)
 ![RippleEffect](https://github.com/traex/RippleEffect/blob/master/header.png)
 
 ExpandableLayout provides an easy way to create a view called header with an expandable view. Both view are external layout to allow a maximum of customization. [You can find a sample](https://github.com/traex/ExpandableLayout/blob/master/sample/) that how to use an ExpandableLayout to your layout.
@@ -13,7 +13,7 @@ The lib is available on Maven Central, you can find it with [Gradle, please](htt
 ``` xml
 
 dependencies {
-    compile 'com.github.traex.rippleeffect:library:1.3'
+    compile 'com.isanwenyu.rippleeffect:library:1.3.1'
 }
 
 ```
@@ -92,6 +92,9 @@ If you want to use the double ripple you have to set a background for the Ripple
 #### Acknowledgements
 
 Thanks to [Google](https://www.google.com/design/spec/material-design/introduction.html) for its Material Design :)
+
+#### Dependencies
+[https://github.com/isanwenyu/BintrayUploadGradle](https://github.com/isanwenyu/BintrayUploadGradle) Used for bintrayUpload repo gradle scripts. 
 
 ### MIT License
 
